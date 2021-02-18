@@ -1,6 +1,2 @@
-## Informasi Kelompok
-- Nomor Kelompok : 18
-- Anggota : 
-Hamdan Miftahul Husna
-Farhan Fadhlurrahman Setyahernadi
-- Tema Project : Blog Sebuah Komunitas Programming
+## Aplikasi Untuk Membuat Artikel Untuk sebuah Komunitas
+## Nama Aplikasi Blog - Go
